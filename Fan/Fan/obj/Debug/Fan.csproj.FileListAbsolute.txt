@@ -1,0 +1,10 @@
+D:\TERM5\JobSerche\Fan\Fan\bin\Debug\Fan.exe.config
+D:\TERM5\JobSerche\Fan\Fan\bin\Debug\Fan.exe
+D:\TERM5\JobSerche\Fan\Fan\bin\Debug\Fan.pdb
+D:\TERM5\JobSerche\Fan\Fan\obj\Debug\Fan.csprojAssemblyReference.cache
+D:\TERM5\JobSerche\Fan\Fan\obj\Debug\Fan.Properties.Resources.resources
+D:\TERM5\JobSerche\Fan\Fan\obj\Debug\Fan.csproj.GenerateResource.cache
+D:\TERM5\JobSerche\Fan\Fan\obj\Debug\Fan.csproj.CoreCompileInputs.cache
+D:\TERM5\JobSerche\Fan\Fan\obj\Debug\Fan.exe
+D:\TERM5\JobSerche\Fan\Fan\obj\Debug\Fan.pdb
+D:\TERM5\JobSerche\Fan\Fan\obj\Debug\Fan.Form1.resources
